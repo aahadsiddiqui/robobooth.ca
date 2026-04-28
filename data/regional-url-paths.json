@@ -1,0 +1,23 @@
+{
+  "eventSegments": [
+    "product-launch",
+    "retail-pop-up",
+    "conference-summit",
+    "trade-show-expo",
+    "gala-dinner",
+    "holiday-party",
+    "milestone-celebration",
+    "engagement",
+    "bar-bat-mitzvah",
+    "concert-festival",
+    "graduation"
+  ],
+  "productSlugsForRegionalRedirects": [
+    "robot-photobooth",
+    "premium-photobooth",
+    "360-booth",
+    "portrait-booth",
+    "photography-videography",
+    "headshots"
+  ]
+}
